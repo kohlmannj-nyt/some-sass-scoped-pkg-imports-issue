@@ -1,5 +1,7 @@
 # some-sass-scoped-pkg-imports-issue
 
+_A limited test case reproduction for [wkillerud/some-sass#415](https://github.com/wkillerud/some-sass/issues/415)_
+
 ## Set up mise, Node.js and pnpm
 
 We use [mise](https://mise.jdx.dev) to manage which versions of [Node.js](https://nodejs.org/en) and [pnpm](https://pnpm.io) are used to work on this project.
