@@ -1,0 +1,10 @@
+{
+  "name": "@nyt/library",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "./tokens/*": {
+      "sass": "./src/tokens/*"
+    }
+  }
+}
