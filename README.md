@@ -7,7 +7,7 @@ We use [mise](https://mise.jdx.dev) to manage which versions of [Node.js](https:
 1. [Install `mise` CLI](https://mise.jdx.dev/getting-started.html).
 2. Open a new terminal in your working copy for this repository.
 3. Run `mise trust`.
-   - `mise` will print: `mise trusted /path/to/your/design-tokens`
+   - `mise` will print: `mise trusted /path/to/your/working-copy`
 4. Run `mise install`.
    - `mise` will download and install both `node` and `pnpm`.
 5. Run `mise ls --local --installed`.
